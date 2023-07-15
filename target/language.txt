@@ -1,0 +1,72 @@
+php:
+php engineer
+PHP Developer
+java:
+Java Developer
+java engineer
+Spring
+javascript:
+javascript engineer
+JS Developer
+Typescript
+AI Engineer:
+AI Developer
+Dầu Nhật:
+Dầu Nhật Bản
+Người gõ máy:
+Người gõ máy tính
+Nodejs:
+Nodejs Developer
+Nodejs Engineer
+ExpressJS/Lookback/Koa/NestJS/MeteorJS framework.
+ExpressJS
+Lookback
+Koa
+NestJS
+MeteorJS
+BrSE:
+MIDDLE BRSE
+SENIOR BRSE
+Brse PM
+Brse TL
+C#:
+.NET
+.Net
+.Net Developer
+C# Developer
+C# Engineer
+C++:
+C++ Developer
+C++ Engineer
+Middle/Senior C++
+network:
+automation test:
+Automation Tester
+frontend:
+html
+css
+html/css
+html/css/javascript
+UI/UX:
+UI/UX DESIGNER
+RUBY:
+SENIOR BACKEND RUBY
+BACKEND RUBY
+python:
+Python Developer
+Python Engineer
+Python
+Linux:
+Linux Developer
+Linux Engineer
+Operator:
+Operator
+operator
+ReactJS:
+ReactJS Developer
+ReactJS Engineer
+comtor:
+IT comtor
+Backend:
+Backend Developer
+Back-end
